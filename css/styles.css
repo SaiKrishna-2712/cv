@@ -1,0 +1,31 @@
+body{
+    background-color: #EAFDFC; 
+}
+
+hr{
+        
+    border-style: none;
+    height: 0px;
+    width: 10.330%;
+    border-top: 8px dotted #8DCBE6;
+    border-width: 5px;
+    background-color: #EAFDFC;
+}
+h1{
+    color: #439A97;
+}
+h2{
+    color: #439A97;
+}
+h3{
+    color: #54BAB9;
+}
+p{
+    color: #607EAA;
+}
+td{
+    color: #607EAA;
+}
+label{
+    color: #607EAA;
+}
