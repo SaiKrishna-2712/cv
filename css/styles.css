@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(200 227 223);
+}
+
+hr {
+
+    border-style: none;
+    height: 0px;
+    width: 0px;
+    border-top: 0px dotted #8DCBE6;
+    border-width: 0px;
+    background-color: rgb(200 227 223);
+}
+
+h1 {
+    color: rgb(85 144 146);
+}
+
+h2 {
+    color: rgb(85 144 146);
+
+}
+
+h3 {
+    color: #54BAB9;
+}
+
+p {
+    color: #607EAA;
+}
+
+td {
+    color: #607EAA;
+}
+
+label {
+    color: #607EAA;
+}
+
+.section {
+    background-color: rgb(109 221 208);
+    padding: 10px 200px;
+
+}
+
+.highlight {
+    color: rgb(251 251 251);
+}
+
+.section1 {
+    background-color: #ffeddd;
+    padding: 10px 200px;
+}
+
+a {
+    display: inline-block;
+    padding: 0.15em 0.2em;
+    background-color: rgb(251 251 251);
+    color: rgb(229, 110, 12);
+    text-decoration: none;
+}
+
+.highlight2 {
+    color: rgb(229, 110, 12);
+}
+
+.highlight3 {
+    font-size: 18px;
+}
